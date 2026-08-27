@@ -13,7 +13,7 @@
   - GitHub Trending 热榜项目
   - ProductHunt 每日热榜产品
 - **一键打开原文**：每条新闻均可一键在新窗口打开原文链接。
-- **AI 对话**：内置基于 SpringAI 的聊天接口，支持流式输出。
+- **AI 对话**：内置基于 Langchain 的聊天接口，支持流式输出。
 
 ## 🧱 技术栈
 
@@ -21,7 +21,7 @@
 | --- | --- |
 | 前端 | Vue 3 · Vite · Axios |
 | 后端 | FastAPI (Python) |
-| AI 服务 | SpringAI · LLM 提示词引擎 |
+| AI 服务 | Langchain · LLM 提示词引擎 |
 | 数据来源 | 微信公众号、GitHub Trending、ProductHunt |
 
 ## 📁 项目结构
