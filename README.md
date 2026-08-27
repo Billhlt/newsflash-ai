@@ -36,7 +36,7 @@ NewsFlash-AI/
     ├── App.vue                 # 主界面（核心逻辑）
     ├── style.css               # 全局样式
     ├── services/
-    │   └── api.js              # 前端 API 封装（FastAPI / SpringAI）
+    │   └── api.js              # 前端 API 封装（FastAPI / Langchain）
     ├── public/                 # 静态资源（背景图、favicon）
     ├── python文件/             # Python 后端与爬虫
     │   └── fastapi/
@@ -74,9 +74,9 @@ uvicorn main:app --reload --port 8000
 
 > 后端会执行公众号文章爬取、LLM 总结、GitHub / ProductHunt 热榜抓取，并提供文章摘要、词汇位置、写入文件等接口。
 
-### 3. 启动 AI 对话服务（SpringAI，可选）
+### 3. 启动 AI 对话服务（Langchain，可选）
 
-聊天功能依赖 `http://localhost:8081` 的 SpringAI 服务。
+聊天功能依赖 `http://localhost:8081` 的 Langchain 服务。
 
 ## 🔌 主要接口
 
