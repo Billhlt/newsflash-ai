@@ -59,6 +59,18 @@ NewsFlash-AI/
 ### 旧版
 <img width="1440" height="840" alt="微信图片_2026-08-13_070303_018" src="https://github.com/user-attachments/assets/edcd9073-3c14-41b4-b71a-4c48df1ea103" />
 
+### 新版
+#### 1.初始界面
+<img width="2465" height="1412" alt="01" src="https://github.com/user-attachments/assets/c7852cfe-b9be-44df-aec2-3ce862890d01" />
+##### 粉色词语为复杂或专业术语，根据ai分析生成解释以帮助阅读，鼠标放在粉色的词语上可以自动生成解释，后台可以配置是否要使用联网搜索（searxng），四个大框的内容分别为ai提炼并判断重要性得到的重要微信公众号文章，不重要微信公众号文章，github热榜，producthunt榜单。
+
+#### 2.点击'边框'和'⭐'按钮可以高亮对应内容
+<img width="2465" height="1412" alt="02" src="https://github.com/user-attachments/assets/a6987bb5-5d79-4a8a-ada4-f325af36f9aa" />
+<img width="2470" height="1423" alt="04" src="https://github.com/user-attachments/assets/00b094e5-0b10-403f-9868-f3cb8ec4f4e1" />
+
+#### 3.点击'写入文件'按钮可以将对应大框中高亮的内容一键写入本地文件，文件地址可在后台配置
+<img width="2470" height="1423" alt="03" src="https://github.com/user-attachments/assets/293cc79d-8a6c-4df1-8005-3905316cc7cf" />
+
 ## 🚀 快速开始
 
 ### 1. 启动前端
