@@ -54,6 +54,11 @@ NewsFlash-AI/
         └── src/views/          # 搜索页 & 处理页
 ```
 
+
+## ✨✨截图
+### 旧版
+<img width="1440" height="840" alt="微信图片_2026-08-13_070303_018" src="https://github.com/user-attachments/assets/edcd9073-3c14-41b4-b71a-4c48df1ea103" />
+
 ## 🚀 快速开始
 
 ### 1. 启动前端
